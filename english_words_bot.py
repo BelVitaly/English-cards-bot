@@ -5,7 +5,7 @@ import pyttsx3
 import pythoncom
 
 
-bot = telebot.TeleBot('5673055206:AAFRaE7we1Jke0-wk7uzZqCEPzDs33v-UgY')
+bot = telebot.TeleBot('YOUR TOKEN')
 
 
 # команды бота
